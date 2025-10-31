@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Gexoty!
 
-![[https://gallery.gexoty.com/pictures/2025.09/VRChat_2025-09-14_11-42-52.750_1920x1080.png]]
+![](https://raw.githubusercontent.com/gexoty/gexoty/refs/heads/main/picture.webp)
 
 <!--
 **gexoty/gexoty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
